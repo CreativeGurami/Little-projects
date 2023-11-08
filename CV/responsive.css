@@ -1,0 +1,239 @@
+@media screen and (max-width: 970px) {
+  .container .half-container {
+    width: 300px;
+  }
+  .left-container {
+    background-color: #2c3a47;
+    width: 200px;
+    margin: auto;
+    padding: 0 20px 0 20px;
+  }
+  .main-right-container {
+    width: 500px;
+    background-color: #dfe6e9;
+    padding: 0 20px 0 10px;
+  }
+  .right-skills {
+    font-size: 1.1rem;
+    letter-spacing: 0.1rem;
+  }
+  .right-list-html {
+    margin: 20%;
+    letter-spacing: 1rem;
+  }
+  .right-list-css {
+    margin: 21.2%;
+    letter-spacing: 1rem;
+  }
+  .right-list-js {
+    margin: 11%;
+    letter-spacing: 1rem;
+  }
+  .right-list-ts {
+    margin: 11%;
+    letter-spacing: 1rem;
+  }
+  .right-list-angular {
+    margin: 15.5%;
+    letter-spacing: 1rem;
+  }
+  .georgia-list-star {
+    margin: 0.5rem;
+    font-size: 1rem;
+  }
+  .english-list-star {
+    margin: 1.2rem;
+    font-size: 1rem;
+  }
+  .left-email-address p {
+    font-size: 0.75rem;
+  }
+}
+@media screen and (max-width: 800px) {
+  .container .half-container {
+    width: 250px;
+  }
+  .left-container {
+    background-color: #2c3a47;
+    width: 150px;
+    margin: auto;
+    padding: 0 20px 0 20px;
+  }
+  .left-container h1,
+  h6 {
+    font-size: 0.8rem;
+  }
+  .language .left-header {
+    font-size: 0.7rem;
+  }
+  .main-right-container {
+    width: 400px;
+    background-color: #dfe6e9;
+    padding: 0 20px 0 10px;
+  }
+  .right-container-article h1 {
+    font-size: 1rem;
+  }
+  .right-container-article2 .right-name2 {
+    font-size: 1rem;
+  }
+  .left-hobbies-article .hobbies-list {
+    font-size: 0.7rem;
+  }
+  .right-skills {
+    font-size: 1.1rem;
+    letter-spacing: 0.1rem;
+  }
+  .right-list-html {
+    margin: 20%;
+    letter-spacing: 1rem;
+  }
+  .right-list-css {
+    margin: 21.2%;
+    letter-spacing: 1rem;
+  }
+  .right-list-js {
+    margin: 11%;
+    letter-spacing: 1rem;
+  }
+  .right-list-ts {
+    margin: 11.5%;
+    letter-spacing: 1rem;
+  }
+  .right-list-angular {
+    margin: 15.5%;
+    letter-spacing: 1rem;
+  }
+  .georgia-list-star {
+    margin: 0.5rem;
+  }
+  .english-list-star {
+    margin: 1.1rem;
+  }
+  .left-email-address p a {
+    font-size: 0.55rem;
+  }
+  .profile-1 {
+    width: 100px;
+    height: 80px;
+  }
+  .left-container-link,
+  .left-full-name,
+  .left-address address {
+    font-size: 0.7rem;
+  }
+  .left-hobbies-article .left-header {
+    font-size: 0.8rem;
+  }
+  .rigfht-container-article3 .right-skills {
+    font-size: 0.8rem;
+    margin-top: -0.1rem;
+  }
+
+  .language .language-list {
+    font-size: 0.9rem;
+  }
+  .language .georgia-list-star,
+  .english-list-star {
+    font-size: 0.7rem;
+  }
+}
+@media screen and (max-width: 600px) {
+  .container .half-container {
+    width: 200px;
+  }
+  .left-img-header h1 {
+    font-size: 0.8rem;
+  }
+  .left-container {
+    background-color: #2c3a47;
+    width: 100px;
+    margin: auto;
+    padding: 0 20px 0 20px;
+  }
+  .left-container h1,
+  h6 {
+    font-size: 0.6rem;
+  }
+  .language .left-header {
+    font-size: 0.5rem;
+  }
+  .main-right-container {
+    width: 250px;
+    background-color: #dfe6e9;
+    padding: 0 20px 0 10px;
+  }
+  .right-container-article h1 {
+    font-size: 0.5rem;
+  }
+  .right-container-article p {
+    font-size: 0.7rem;
+  }
+  .right-container-article-text-info p {
+    font-size: 0.6rem;
+  }
+  .right-container-article2 .right-name2 {
+    font-size: 0.6rem;
+  }
+  .left-hobbies-article .hobbies-list {
+    font-size: 0.6rem;
+  }
+
+  .right-list-html {
+    margin: 15%;
+    letter-spacing: 0.3rem;
+  }
+  .right-list-css {
+    margin: 17.2%;
+    letter-spacing: 0.3rem;
+  }
+  .right-list-js {
+    margin: 7%;
+    letter-spacing: 0.3rem;
+  }
+  .right-list-ts {
+    margin: 6%;
+    letter-spacing: 0.3rem;
+  }
+  .right-list-angular {
+    margin: 12.5%;
+    letter-spacing: 0.3rem;
+  }
+  .georgia-list-star {
+    margin: 0.5rem;
+  }
+  .english-list-star {
+    margin: 1.1rem;
+  }
+  .left-email-address p a {
+    font-size: 0.4rem;
+  }
+  .profile-1 {
+    width: 80px;
+    height: 60px;
+  }
+  .left-container-link,
+  .left-full-name,
+  .left-address address {
+    padding-top: 0.5rem;
+    font-size: 0.5rem;
+  }
+  .left-hobbies-article .left-header {
+    font-size: 0.6rem;
+  }
+  .rigfht-container-article3 .right-skills {
+    font-size: 0.6rem;
+    margin-top: -0.1rem;
+  }
+
+  .language .language-list {
+    font-size: 0.5rem;
+  }
+  .language .georgia-list-star,
+  .english-list-star {
+    font-size: 0.4rem;
+  }
+  .language .language-list {
+    margin-top: -1rem;
+  }
+}
